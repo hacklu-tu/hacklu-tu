@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Hacklu's GitHub stats](https://stats.programcx.cn/api?username=hacklu-tu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Hacklu's GitHub stats](https://stats.programcx.cn/api?username=hacklu-tu&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hacklu-tu/hacklu-tu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
