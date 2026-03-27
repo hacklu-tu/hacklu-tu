@@ -10,7 +10,7 @@
 ---
 
 ![Hacklu's GitHub Stats](https://github-readme-stats-hacklu-tus-projects.vercel.app/api?username=hacklu-tu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github&v=3)
-![Top Languages](https://github-readme-stats-hacklu-tus-projects.vercel.app/api/top-langs/?username=hacklu-tu&layout=compact&theme=tokyonight&langs_count=8&v=3)
+![Top Languages](https://github-readme-stats-hacklu-tus-projects.vercel.app/api/top-langs/?username=hacklu-tu&layout=compact&theme=tokyonight&langs_count=8&include_all_commits=true&count_private=true&v=4)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hacklu-tu&theme=tokyonight&v=3)
 
