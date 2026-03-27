@@ -4,16 +4,15 @@
   <a href="https://github.com/hacklu-tu?tab=followers">
     <img src="https://img.shields.io/github/followers/hacklu-tu?label=Followers&style=social" alt="GitHub Followers">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=hacklu-tu&color=blueviolet&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=hacklu-tu&color=brightgreen&style=flat" alt="Profile Views">
 </p>
 
 ---
 
-![Hacklu's GitHub Stats](https://github-readme-stats-hacklu-tus-projects.vercel.app/api?username=hacklu-tu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github&v=3)
-![Top Languages](https://github-readme-stats-hacklu-tus-projects.vercel.app/api/top-langs/?username=hacklu-tu&layout=compact&theme=tokyonight&langs_count=8&include_all_commits=true&count_private=true&v=4)
+<p align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hacklu-tu&theme=tokyonight&v=3)
+![Hacklu's GitHub Stats](https://github-readme-stats-hacklu-tus-projects.vercel.app/api?username=hacklu-tu&show_icons=true&theme=default&count_private=true&include_all_commits=true&rank_icon=github&border_color=e4e2e2&v=5)
 
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hacklu-tu&theme=default&border=e4e2e2&v=5)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hacklu-tu&theme=tokyonight&no-frame=true&column=7&v=3)
+</p>
