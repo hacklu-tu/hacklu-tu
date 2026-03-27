@@ -10,8 +10,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-rust-ten-21.vercel.app/api?username=hacklu-tu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github" alt="Hacklu's GitHub Stats" />
-  <img src="https://github-readme-stats-rust-ten-21.vercel.app/api/top-langs/?username=hacklu-tu&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-hacklu-tus-projects.vercel.app/api?username=hacklu-tu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github" alt="Hacklu's GitHub Stats" />
+  <img src="https://github-readme-stats-hacklu-tus-projects.vercel.app/api/top-langs/?username=hacklu-tu&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
