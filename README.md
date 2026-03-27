@@ -9,11 +9,11 @@
 
 ---
 
-![Hacklu's GitHub Stats](https://github-readme-stats-hacklu-tus-projects.vercel.app/api?username=hacklu-tu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github)
-![Top Languages](https://github-readme-stats-hacklu-tus-projects.vercel.app/api/top-langs/?username=hacklu-tu&layout=compact&theme=tokyonight&langs_count=8)
+![Hacklu's GitHub Stats](https://github-readme-stats-hacklu-tus-projects.vercel.app/api?username=hacklu-tu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github&v=3)
+![Top Languages](https://github-readme-stats-hacklu-tus-projects.vercel.app/api/top-langs/?username=hacklu-tu&layout=compact&theme=tokyonight&langs_count=8&v=3)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hacklu-tu&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hacklu-tu&theme=tokyonight&v=3)
 
 ---
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hacklu-tu&theme=tokyonight&no-frame=true&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hacklu-tu&theme=tokyonight&no-frame=true&column=7&v=3)
