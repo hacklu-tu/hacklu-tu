@@ -9,8 +9,6 @@
 
 ---
 
-### 👋 Hello, I'm Hacklu
-
 * 💻 **Data Engineer** currently working in the Cross-Border E-Commerce industry.
 * 🧠 **Focusing on:** Transitioning from traditional data engineering to **Data Application Architecture** and cultivating a strong **Data Product mindset**.
 * 🚀 **Looking ahead:** Gearing up to actively contribute to the Open Source data ecosystem in **H2 2026**.
